@@ -5,7 +5,7 @@ Challenge da Alura na formação Python para DataScience com o objetivo de fazer
 ## 📊 Alguns dos Gráficos Presentes Nesta Análise
 <img src="img/grafico%20de%20faturamento.png" alt="Gráfico de Faturamento" width="600">
 <img src="img/grafico%20de%20vendas%20por%20categoria.png" alt="Gráfico de vendas por categoria" width="600">
-<img src="img/grafico%20de%media%20de%20avaliação" alt="Gráfico de media de avaliação" width="600">
+<img src="img/grafico%20de%media%20de%20avaliação.png" alt="Gráfico de media de avaliação" width="600">
 
 ## 📘 Como Executar o Notebook no Google Colab
 
